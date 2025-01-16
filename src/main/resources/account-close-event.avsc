@@ -1,0 +1,11 @@
+{
+  "type": "record",
+  "name": "AccountCloseEvent",
+  "namespace": "com.example.avro",
+  "fields": [
+    {
+      "name": "accountNumber",
+      "type": "string"
+    }
+  ]
+}
